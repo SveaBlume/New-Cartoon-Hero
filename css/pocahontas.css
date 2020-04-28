@@ -16,6 +16,10 @@ padding-bottom: 50px;
 h1,h2{
 	font-family: 'Parisienne', cursive;
 }
+
+/* header styles */
+
+
 header h1{
 	color: white;
 	font-size: 70px;
@@ -26,9 +30,6 @@ header img{
 	width: 270px;
 	border: 10px solid white;
 }
-
-
-
 
 
 
